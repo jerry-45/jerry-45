@@ -14,8 +14,9 @@ Languages/Framework:
 * Python
 
 ### Let's Connect
-💻 [Website][Website] / 🐦 [Twitter][Twitter] / 📷 [Instagram][Instagram]
+💻 [Website][Website] / 🐦 [Twitter][Twitter] / 📷 [Instagram][Instagram] / 🧑 [LinkedIn][Linkedin]
 
 [Website]: https://jerry-45.github.io/atul-vishwakarma/
 [Twitter]: https://twitter.com/jerry160501
 [Instagram]: https://www.instagram.com/_.jerry._.45._/
+[LinkedIn]: https://www.linkedin.com/in/atul-vishwakarma-0849011a7/
