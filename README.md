@@ -1,5 +1,5 @@
 ![headingBg](https://github.com/jerry-45/jerry-45/blob/main/img/bg.jpg)
-
+#You are Amazing - Message from KUNAL
 I am a front-end Web Developer, Programmer, Graphic Designer and a Photographer from Thane, India. I have a great passion for creating dynamic and responsive websites, designing cool stuffs, etc.
 
 ``
